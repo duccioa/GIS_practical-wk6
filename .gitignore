@@ -28,3 +28,15 @@
 *.txt
 
 *.kml
+
+*.pper
+
+.RData
+
+.Rhistory
+
+.Rproj.user/E37AEAA8/saved_source_markers
+
+.Rproj.user/E37AEAA8/sdb/per/t/5B3384B8
+
+.Rproj.user/E37AEAA8/sdb/per/t/B5C00B3A
